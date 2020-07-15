@@ -1,0 +1,800 @@
+,movie_title,domestic_total_gross,runtime_minutes,rating,budget
+0,Avengers: Endgame,858373000,181.0,PG-13,356000000
+1,The Lion King,543638043,118.0,PG,260000000
+2,Toy Story 4,434038008,100.0,G,200000000
+3,Frozen II,477373578,103.0,PG,150000000
+4,Captain Marvel,426829839,123.0,PG-13,160000000
+5,Star Wars: Episode IX,515202542,142.0,PG-13,275000000
+6,Spider,390532085,129.0,PG-13,160000000
+7,Aladdin,355559216,128.0,PG,183000000
+8,Joker,335451311,122.0,R,55000000
+9,It Chapter Two,211593228,169.0,R,79000000
+10,Jumanji: The Next Level,316831246,123.0,PG-13,125000000
+11,Us,175084580,116.0,R,20000000
+12,Fast & Furious Presents: Hobbs & Shaw,173956935,137.0,,200000000
+13,John Wick: Chapter 3,171015687,130.0,R,75000000
+14,How to Train Your Dragon: The Hidden World,160799505,104.0,PG,129000000
+15,The Secret Life of Pets 2,158874395,86.0,PG,80000000
+16,Pokémon Detective Pikachu,144105346,104.0,PG,150000000
+17,Once Upon a Time... in Hollywood,142502728,161.0,R,90000000
+18,Shazam!,140371656,132.0,PG-13,100000000
+19,Aquaman,335061807,143.0,PG-13,0
+20,Knives Out,165363234,130.0,PG-13,40000000
+21,Dumbo,114766307,112.0,PG,170000000
+22,Maleficent: Mistress of Evil,113929605,119.0,PG,185000000
+23,Glass,111048468,129.0,PG-13,20000000
+24,Godzilla: King of the Monsters,110500138,132.0,PG-13,170000000
+25,The Upside,108252517,126.0,PG-13,37500000
+26,Ford v Ferrari,117624357,152.0,PG-13,97600000
+27,The Lego Movie 2: The Second Part,105806508,107.0,PG,99000000
+28,Hustlers,104963598,110.0,R,20000000
+29,The Addams Family,100044905,86.0,PG,24000000
+30,Downton Abbey,96854135,122.0,PG,13000000
+31,Rocketman,96368160,121.0,R,40000000
+32,Alita: Battle Angel,85710210,122.0,PG-13,170000000
+33,Good Boys,83140306,90.0,R,20000000
+34,Spider,190241310,117.0,PG,0
+35,Men in Black: International,80001807,114.0,PG-13,110000000
+36,Annabelle Comes Home,74152591,106.0,R,30000000
+37,Yesterday,73286650,116.0,PG-13,26000000
+38,A Madea Family Funeral,73257045,109.0,PG-13,20000000
+39,Zombieland: Double Tap,73123082,99.0,R,42000000
+40,Angel Has Fallen,69030436,121.0,R,40000000
+41,Scary Stories to Tell in the Dark,68947075,108.0,PG-13,25000000
+42,Mary Poppins Returns,171958438,130.0,PG,130000000
+43,X,65845974,113.0,PG-13,200000000
+44,Terminator: Dark Fate,62253077,128.0,R,185000000
+45,Abominable,60716390,97.0,PG,75000000
+46,Dora and the Lost City of Gold,60477943,102.0,PG,49000000
+47,Escape Room,57005601,99.0,PG-13,9000000
+48,A Beautiful Day in the Neighborhood,61704055,109.0,PG,25000000
+49,Midway,56846802,138.0,PG-13,100000000
+50,Bumblebee,127195589,114.0,PG-13,135000000
+51,The Curse of la Llorona,54733739,93.0,R,9000000
+52,Pet Sematary,54724696,101.0,R,21000000
+53,What Men Want,54611903,117.0,R,20000000
+54,Green Book,85080171,130.0,PG-13,23000000
+55,Ad Astra,50188370,123.0,PG-13,90000000
+56,Isn't It Romantic,48791187,89.0,PG-13,31000000
+57,Gemini Man,48546770,117.0,PG-13,138000000
+58,Ma,45896028,99.0,R,5000000
+59,Five Feet Apart,45729221,116.0,PG-13,7000000
+60,Wonder Park,45216793,85.0,PG,90000000
+61,Rambo: Last Blood,44819352,89.0,R,50000000
+62,Playing with Fire,44451847,96.0,PG,29900000
+63,Harriet,43082155,125.0,PG-13,17000000
+64,A Dog's Way Home,42004346,96.0,PG,18000000
+65,The Angry Birds Movie 2,41667116,97.0,PG,65000000
+66,Little,40860481,109.0,PG-13,20000000
+67,Queen & Slim,43808310,132.0,R,18000000
+68,Breakthrough,40713082,116.0,PG,14000000
+69,The Mule,103804407,116.0,R,50000000
+70,Crawl,39014193,87.0,R,13500000
+71,Little Women,108101214,135.0,PG,40000000
+72,The Intruder,35419122,102.0,PG-13,8000000
+73,The Hustle,35417038,93.0,PG-13,21000000
+74,Last Christmas,35150750,103.0,PG-13,25000000
+75,Overcomer,34746945,119.0,PG,5000000
+76,Cold Pursuit,32138862,119.0,R,60000000
+77,Doctor Sleep,31581712,152.0,R,45000000
+78,Dragon Ball Super: Broly,30712119,100.0,PG,8500000
+79,Long Shot,30316271,125.0,R,40000000
+80,Spies in Disguise,66757013,102.0,PG,100000000
+81,Child's Play,29208403,90.0,R,10000000
+82,Ready or Not,28714231,95.0,R,6000000
+83,Happy Death Day 2U,28148130,100.0,PG-13,9000000
+84,Vice,47836282,132.0,R,0
+85,21 Bridges,28539757,99.0,R,33000000
+86,Midsommar,27426361,148.0,R,9000000
+87,Bohemian Rhapsody,216428042,134.0,PG-13,52000000
+88,The Art of Racing in the Rain,26395642,109.0,PG,18000000
+89,Countdown,25621766,90.0,PG-13,6500000
+90,Uncut Gems,50023780,135.0,R,19000000
+91,Judy,24313888,118.0,PG-13,0
+92,Ralph Breaks the Internet,201091711,112.0,PG,175000000
+93,Fighting with My Family,22958886,108.0,PG-13,11000000
+94,On the Basis of Sex,24622687,,PG-13,0
+95,A Dog's Journey,22782371,109.0,PG,16000000
+96,Booksmart,22680962,102.0,R,6000000
+97,Parasite,53369749,132.0,R,11400000
+98,Stuber,22370452,93.0,R,16000000
+99,47 Meters Down: Uncaged,22260900,90.0,PG-13,12000000
+100,Black and Blue,22055313,108.0,R,12000000
+101,Hellboy,21903748,,R,50000000
+102,Shaft,21360215,111.0,R,35000000
+103,Jojo Rabbit,33370906,108.0,PG-13,14000000
+104,The Peanut Butter Falcon,20457151,97.0,PG-13,6200000
+105,UglyDolls,20150241,87.0,PG,0
+106,Cats,27166770,110.0,PG,95000000
+107,Unplanned,19005109,109.0,R,6000000
+108,The Favourite,34366783,119.0,R,0
+109,Bombshell,31762808,109.0,R,32000000
+110,Richard Jewell,22345542,131.0,R,45000000
+111,Charlie's Angels,17803077,118.0,PG-13,48000000
+112,The Farewell,17695781,100.0,PG,0
+113,Brightburn,17300439,90.0,R,6000000
+114,The Good Liar,17156058,109.0,R,10000000
+115,The Kid Who Would Be King,16790790,,PG,0
+116,Missing Link,16649539,93.0,PG,0
+117,Second Act,39282227,103.0,PG-13,16000000
+118,Late Night,15499454,102.0,R,0
+119,Miss Bala,15006824,104.0,PG-13,15000000
+120,The Prodigy,14856291,92.0,R,6000000
+121,A Star Is Born,215288866,136.0,R,36000000
+122,Poms,13631124,90.0,PG-13,0
+123,If Beale Street Could Talk,14915773,119.0,R,0
+124,They Shall Not Grow Old 2018 Re,17956913,99.0,R,0
+125,The Kitchen,12180032,102.0,R,38000000
+126,After,12138565,105.0,PG-13,14000000
+127,Blinded by the Light,11901145,118.0,PG-13,0
+128,The Lighthouse,10867104,109.0,R,0
+129,Dark Waters,11136084,126.0,PG-13,0
+130,Greta,10532219,98.0,R,0
+131,The Best of Enemies,10205616,133.0,PG-13,10000000
+132,Black Christmas,10429730,92.0,PG-13,5000000
+133,Hotel Mumbai,9651611,123.0,R,0
+134,Holmes & Watson,30573626,90.0,PG-13,42000000
+135,Motherless Brooklyn,9277736,144.0,R,26000000
+136,No Manches Frida 2,9270920,102.0,R,0
+137,"Where'd You Go, Bernadette",9198356,109.0,PG-13,0
+138,Apollo 11,9039891,93.0,G,0
+139,Serenity,8547045,106.0,R,0
+140,Anna,7743794,118.0,R,0
+141,Penguins,7699452,76.0,G,0
+142,Brittany Runs a Marathon,7189808,104.0,R,0
+143,Mary Queen of Scots,16468499,124.0,R,0
+144,The Dead Don't Die,6563605,104.0,R,0
+145,Jexi,6546159,84.0,R,0
+146,Run the Race,6424420,101.0,PG,0
+147,Free Solo,17541090,100.0,PG-13,0
+148,The Current War: Director's Cut,5979540,108.0,PG-13,0
+149,Captive State,5958315,109.0,PG-13,0
+150,The Wandering Earth,5971413,125.0,,0
+151,Arctic Dogs,5801249,92.0,PG,0
+152,Gloria Bell,5611123,102.0,R,0
+153,Gully Boy,5566534,153.0,,0
+154,Stan & Ollie,5470235,98.0,PG,0
+155,The Goldfinch,5332621,149.0,R,45000000
+156,Don't Let Go,5215062,103.0,R,5000000
+157,The Mustang,5043620,96.0,R,0
+158,The Sun Is Also a Star,4950029,100.0,PG-13,0
+159,Bring The Soul: The Movie,4809800,103.0,,0
+160,Pavarotti,4600249,114.0,PG-13,0
+161,Tolkien,4535154,112.0,PG-13,0
+162,The Last Black Man in San Francisco,4515719,121.0,R,0
+163,War,4654000,154.0,,21000000
+164,Cold War 2018 Re,4580048,89.0,R,0
+165,Menteur,4697364,111.0,,0
+166,Brian Banks,4376819,99.0,PG-13,0
+167,The Biggest Little Farm,4366949,91.0,PG,0
+168,The Grinch,270620950,85.0,PG,75000000
+169,Amazing Grace,4450456,89.0,G,0
+170,Linda Ronstadt: The Sound of My Voice,4252657,95.0,PG-13,0
+171,Uri: The Surgical Strike 2019 Re,4186168,138.0,,0
+172,Replicas,4046429,107.0,PG-13,0
+173,Pain and Glory,4567338,113.0,R,0
+174,Ne Zha,3695533,110.0,,0
+175,Mission Mangal,3659413,130.0,,0
+176,The Oscar Nominated Short Films 2019: Documentary,3531094,,,0
+177,BTS World Tour: Love Yourself in Seoul,3509917,112.0,,0
+178,The Beach Bum,3502600,95.0,R,0
+179,Echo in the Canyon,3355324,82.0,PG-13,0
+180,Creed II,115715889,130.0,PG-13,50000000
+181,Jay and Silent Bob Reboot,4589490,105.0,R,0
+182,Maiden,3168978,97.0,PG,0
+183,Simmba,5102129,158.0,,0
+184,Bharat,2971549,150.0,Not Rated,0
+185,Honey Boy,3012615,94.0,R,0
+186,Friends 25th: The One With The Anniversary,2884827,105.0,,0
+187,Saaho,2872057,170.0,,0
+188,Fantastic Beasts: The Crimes of Grindelwald,159555901,134.0,PG-13,200000000
+189,Kalank,2729336,166.0,Not Rated,0
+190,Tod@s Caen,2670925,,PG-13,0
+191,Everybody Knows,2660165,133.0,R,0
+192,Instant Family,67363237,118.0,PG-13,48000000
+193,The Art of Self,2410914,104.0,R,0
+194,Arctic 2019 Re,2410795,98.0,PG-13,0
+195,Welcome to Marwen,10763520,116.0,PG-13,0
+196,"My People, My Country",2356683,154.0,,0
+197,Promare,2313596,111.0,PG-13,0
+198,Super 30,2269878,154.0,,0
+199,Faustina: Love and Mercy,2243180,107.0,,0
+200,Gone with the Wind 2019 Re,2176120,238.0,,0
+201,3 from Hell,2172949,115.0,R,0
+202,Total Dhamaal,2167632,130.0,,0
+203,Housefull 4,2109160,145.0,,0
+204,Shoplifters,3313513,121.0,R,0
+205,The Wizard of Oz 2019 Re,2076020,102.0,PG,2777000
+206,Luce,2010613,109.0,R,0
+207,Chhichhore,2004400,143.0,,0
+208,Official Secrets,1988546,112.0,R,0
+209,Better Days,1921657,135.0,,0
+210,Badla,1861000,118.0,,0
+211,The White Crow,1828784,127.0,R,0
+212,Ben Is Back,3703184,103.0,R,0
+213,Pandas,7574012,,G,0
+214,The Other Side of Heaven 2: Fire of Faith,1807216,117.0,PG-13,0
+215,Ip Man 4: The Finale,3956031,107.0,,0
+216,Wild Rose,1635117,101.0,R,0
+217,The Aftermath,1618497,108.0,R,0
+218,Made for More,2999134,,,0
+219,Red Joan,1579730,101.0,R,0
+220,After the Wedding,1574258,112.0,PG-13,0
+221,Extreme Job,1565885,111.0,,0
+222,Waves,1658790,135.0,R,0
+223,Qué León,2607916,93.0,PG-13,0
+224,Capernaum,1661096,126.0,R,0
+225,The Kid,1508593,100.0,R,0
+226,Kinky Boots: The Musical,900451,135.0,,0
+227,Destroyer,1533324,121.0,R,0
+228,The Wife,9601092,99.0,R,0
+229,El Chicano,1400603,108.0,R,0
+230,Fantastic Fungi,1788322,81.0,,0
+231,1917,159227644,119.0,R,95000000
+232,Spirited Away 2019 Re,1322927,125.0,PG,0
+233,Never Look Away,1304042,189.0,R,0
+234,Pilgrim's Progress,1294596,108.0,PG,0
+235,Can You Ever Forgive Me?,8803865,106.0,R,0
+236,Asterix: The Secret of the Magic Potion,1271953,87.0,,0
+237,Metallica & San Francisco Symphony,1252385,150.0,,0
+238,BTS World Tour 'Love Yourself: Speak Yourself' (The Final) Seoul Live Viewing,1226552,210.0,,0
+239,High Life,1225852,113.0,R,0
+240,All Is True,1200481,101.0,PG-13,0
+241,Kingdom Men Rising,1188936,93.0,Not Rated,0
+242,Los Domirriqueños 2,1187280,107.0,,0
+243,Ek Ladki Ko Dekha Toh Aisa Laga,1182636,,,0
+244,No Safe Spaces,1291514,100.0,PG-13,0
+245,Nothing to Lose 2,1150551,96.0,PG-13,0
+246,Western Stars,1581681,83.0,PG,0
+247,Konosuba!: God's Blessing on This Wonderful World!,1134786,90.0,,0
+248,My Neighbor Totoro 2019 Re,1105564,86.0,,0
+249,Playmobil: The Movie,1115008,99.0,PG,0
+250,Mortal Engines,15951040,128.0,PG-13,0
+251,Bennett's War,1056416,94.0,PG-13,0
+252,Princess Mononoke 2019 Re,1046446,134.0,PG-13,0
+253,Luka Chuppi,1042905,126.0,,0
+254,The Souvenir,1036737,,R,0
+255,Noah,1035603,130.0,,0
+256,El Coyote,1101470,93.0,R,0
+257,Perfect Strangers,1014507,97.0,,0
+258,Marianne & Leonard: Words of Love,1012034,102.0,R,0
+259,Kiki's Delivery Service 2019 Re,1004057,103.0,,0
+260,BlacKkKlansman,49275340,135.0,R,15000000
+261,Jesus Is King,973000,,,0
+262,Rush: Cinema Strangiato 2019,960073,,,0
+263,The Fighting Preacher,954641,100.0,PG,0
+264,Toni Morrison: The Pieces I Am,903018,,PG-13,0
+265,A Hidden Life,1730597,174.0,PG-13,0
+266,Between Me and My Mind,875191,100.0,,0
+267,Howl's Moving Castle 2019 Re,865647,119.0,PG,0
+268,Pati Patni Aur Woh,874044,126.0,,0
+269,Steel Magnolias 2019 Re,855421,117.0,,0
+270,Woman at War,847495,101.0,Not Rated,0
+271,Alien 2019 Re,833658,117.0,R,11000000
+272,Climax,817339,97.0,R,0
+273,Transit,815290,101.0,,0
+274,One Piece: Stampede,1298528,101.0,,0
+275,Chonda Pierce: Unashamed,787979,90.0,,0
+276,Student of the Year 2,778566,146.0,Not Rated,0
+277,The Church,772000,81.0,PG-13,0
+278,Patterns of Evidence: Moses Controversy,765361,140.0,,0
+279,I Love Lucy: A Colorized Celebration,754323,155.0,,0
+280,Joni 75: A Birthday Celebration,752205,128.0,,0
+281,The Game Changers,739711,86.0,,0
+282,David Crosby: Remember My Name,732793,95.0,R,0
+283,More Than Blue,722669,105.0,,0
+284,Honeyland,815082,89.0,,0
+285,Where's My Roy Cohn?,705274,97.0,PG-13,0
+286,Non,704919,108.0,R,0
+287,The Captain,706572,111.0,,0
+288,Raise Hell: The Life & Times of Molly Ivins,694410,93.0,,0
+289,Spirits in the Forest,704744,83.0,,0
+290,The Sky Is Pink,652592,143.0,,0
+291,Racetime,1875283,89.0,PG,0
+292,Dirty Dancing 2019 Re,622968,100.0,,6000000
+293,American Masters: Miles Davis: Birth of the Cool,614201,114.0,,0
+294,Roger Waters,611644,135.0,,0
+295,The Muppet Movie 2019 Re,610475,95.0,,0
+296,The White Storm 2: Drug Lords,609461,99.0,,0
+297,The Least of These: The Graham Staines Story,607015,112.0,PG-13,0
+298,The Chaperone,600654,103.0,Not Rated,0
+299,Furie,594788,98.0,,0
+300,To Kill a Mockingbird 2019 Re,592237,129.0,,0
+301,Bethany Hamilton: Unstoppable,590671,100.0,PG,0
+302,The Public,573503,119.0,PG-13,0
+303,My Fair Lady 2019 Re,560711,170.0,G,17000000
+304,Fiddler: A Miracle of Miracles,549386,97.0,PG-13,0
+305,Everybody's Everything,547207,116.0,,0
+306,"DCI 2019: Big, Loud & Live 16",546060,,,0
+307,La femme de mon frère,539524,117.0,,0
+308,Grateful Dead Meet,537153,,,0
+309,Code Geass: Lelouch of the Re;Surrection 2019 Re,522805,112.0,Not Rated,0
+310,Shadow,521396,116.0,Not Rated,0
+311,Long Day's Journey Into Night,521365,138.0,Not Rated,0
+312,The Spy Behind Home Plate,519525,101.0,Not Rated,0
+313,Wild Nights with Emily,519487,84.0,PG-13,0
+314,Saving Private Ryan 2019 Re,508694,169.0,R,70000000
+315,Birds of Passage,507259,125.0,,0
+316,Tel Aviv on Fire,506145,100.0,,0
+317,Widows,42402632,129.0,R,42000000
+318,Whisper of the Heart 2019 Re,498156,111.0,,0
+319,Nausicaä of the Valley of the Wind 2019 Re,495770,117.0,PG,0
+320,Crazy Rich Asians,174532921,,PG-13,30000000
+321,Batla House,493180,146.0,,0
+322,The Climbers,487157,125.0,,0
+323,The Russian Five,485049,102.0,,0
+324,The Great Alaskan Race,485603,87.0,PG,0
+325,Exit,470699,103.0,,0
+326,Lawrence of Arabia 2019 Re,482281,228.0,,0
+327,CatVideoFest,470923,70.0,,0
+328,Panipat,461863,165.0,,0
+329,Christmas Jars,459462,110.0,,0
+330,Gorillaz: Reject False Icons,453687,95.0,,0
+331,Cruel Intentions 2019 Re,445218,97.0,R,10500000
+332,Teen Spirit,441366,93.0,PG-13,0
+333,At Eternity's Gate,2294915,111.0,PG-13,0
+334,Merci pour tout,1073969,99.0,,0
+335,Les Misérables: The Staged Concert,459478,145.0,,0
+336,De De Pyaar De,425934,135.0,Not Rated,0
+337,Hail Satan?,424284,95.0,R,0
+338,Ben,422622,212.0,,15000000
+339,Killing Sarai,425332,106.0,R,0
+340,Fate/stay night [Heaven's Feel] II. lost butterfly,420595,117.0,,0
+341,Ash Is Purest White,422814,136.0,Not Rated,0
+342,The Cold Blue,420177,101.0,TV-PG,0
+343,The Reliant,408747,140.0,PG-13,0
+344,The Invisibles,407373,110.0,,0
+345,Monos,406473,102.0,R,0
+346,Meet Me in St. Louis 75th Anniversary,403521,113.0,,1700000
+347,"Hello, Dolly!",400881,146.0,,0
+348,The Nightingale,400209,136.0,R,0
+349,Mia and the White Lion,399471,98.0,PG,0
+350,The Man Who Killed Don Quixote,391963,132.0,,0
+351,The Wedding Guest,386166,96.0,R,0
+352,The Secret World of Arrietty 2019 Re,384289,94.0,,0
+353,What We Left Behind: Star Trek DS9,382457,116.0,,0
+354,The Cure: Anniversary 1978,378405,137.0,,0
+355,The Hummingbird Project,371784,111.0,R,0
+356,Ghostbusters 2019 Re,369612,105.0,,30000000
+357,Matthias & Maxime,374739,119.0,,0
+358,The Shawshank Redemption 2019 Re,358507,142.0,R,25000000
+359,The Tomorrow Man,354103,94.0,PG-13,0
+360,Star Trek: The Motion Picture 2019 Re,346243,132.0,G,35000000
+361,Photograph,344534,110.0,PG-13,0
+362,Diane,336166,95.0,Not Rated,0
+363,Millennium Actress 2019 Re,225250,87.0,PG,0
+364,A Silent Voice: The Movie 2019 Re,333984,130.0,,0
+365,The Big Fight Live: IBF Welterweight Title: Errol Spence Jr. vs. Mikey Garcia,328979,223.0,,0
+366,P Storm,326711,96.0,Not Rated,0
+367,Fleabag,326283,80.0,,0
+368,Sword of Trust,322421,88.0,R,0
+369,Lucy in the Sky,319976,124.0,R,0
+370,You Are Here: A Come From Away Story,318885,84.0,,0
+371,Josh Groban Bridges Live from Madison Square Garden,315173,,,0
+372,Bolshoi Ballet: The Sleeping Beauty,311368,170.0,,0
+373,DanTDM Presents The Contest,307484,,,0
+374,K,303230,96.0,,0
+375,Aquarela,307346,90.0,PG,0
+376,Ask Dr. Ruth,297195,100.0,Not Rated,0
+377,Line Walker 2: Invisible Spy,296751,98.0,,0
+378,Junglee,295784,115.0,,0
+379,The Giant Spider Invasion,293053,84.0,,0
+380,Stockholm,292590,92.0,R,0
+381,The Godfather: Part II 45th Anniversary,291754,202.0,,13000000
+382,Killerman,291477,112.0,R,0
+383,The Bravest,290217,118.0,PG-13,0
+384,Saga of Tanya the Evil,288460,115.0,Not Rated,0
+385,Khalid: Free Spirit,284229,,,0
+386,Mike Wallace Is Here,281245,90.0,PG-13,0
+387,The Whistleblower,280851,134.0,,0
+388,Octaman,280710,79.0,,0
+389,The Nutcracker and the Four Realms,54858851,99.0,PG,120000000
+390,I Want to Eat Your Pancreas,277019,109.0,,0
+391,Freaks,276591,105.0,R,0
+392,True Grit 2019 Re,276418,128.0,G,0
+393,The Tale of The Princess Kaguya 2019 Re,271681,137.0,PG,0
+394,Shakira in Concert: El Dorado World Tour,271586,122.0,,0
+395,Is It Wrong to Try to Pick Up Girls in a Dungeon,271489,82.0,,0
+396,One Child Nation,270128,88.0,R,0
+397,Just Mercy,36001502,137.0,PG-13,25000000
+398,Slayer: The Repentless Killogy,268727,131.0,,0
+399,Luzia: Cirque du Soleil in Cinema,265673,95.0,,0
+400,Out of Liberty,265279,111.0,PG,0
+401,Modest Heroes,178027,,PG,0
+402,Smallfoot,83240103,96.0,PG,0
+403,Star Raiders: The Adventures of Saber Raine,260234,83.0,,0
+404,Mobile Suit Gundam Narrative,259224,88.0,,0
+405,Her Smell,255599,136.0,R,0
+406,Lords of Chaos,253184,118.0,R,0
+407,Bolshoi Ballet: The Nutcracker,252935,150.0,,0
+408,When Harry Met Sally... 30th Anniversary,252320,95.0,,0
+409,I Got the Hook Up 2,252293,107.0,,0
+410,Canal Street,251917,89.0,PG-13,0
+411,Meeting Gorbachev,251837,90.0,Not Rated,0
+412,The Twilight Zone: A 60th Anniversary Celebration,248514,,,0
+413,Doctor Who: The End of Time: Part One,247798,,,0
+414,Friendsgiving Day #1,246168,110.0,,0
+415,63 Up,483684,145.0,,0
+416,311 Enlarged to Show Detail 3,238791,133.0,,0
+417,Give Me Liberty,242734,110.0,,0
+418,American Woman,236637,111.0,R,0
+419,Romeo Akbar Walter,236299,141.0,Not Rated,0
+420,Premier Boxing Champions: PBC on FOX: Spence vs. Porter,232973,,,0
+421,DAZN Boxing: Canelo Alvarez vs. Daniel Jacobs,230703,,,0
+422,Under the Sea 3D,36262926,,,0
+423,Mine 9,226421,83.0,Not Rated,0
+424,Premier Boxing Champions: PBC on FOX PPV: Pacquiao vs. Thurman,223858,,,0
+425,Never Surrender: A Galaxy Quest Documentary,222971,95.0,,0
+426,First Love,218329,108.0,,0
+427,"The Gangster, the Cop, the Devil",216494,109.0,Not Rated,0
+428,The Karate Kid 2019 Re,215447,126.0,,0
+429,The Possession of Hannah Grace,14837422,86.0,R,7700000
+430,Hamlet 2019 Re,214578,217.0,,0
+431,"Faith, Hope & Love",210091,106.0,PG,0
+432,Master Z: The Ip Man Legacy,209454,107.0,Not Rated,0
+433,Kathy Griffin: A Hell of a Story,208907,106.0,,0
+434,Play the Flute,241251,103.0,,0
+435,Bolshoi Ballet: Carmen Suite/Petrushka,207523,140.0,,0
+436,The Iron Orchard,204881,112.0,R,0
+437,Hesburgh,204709,106.0,Not Rated,0
+438,Venom,213515506,112.0,PG-13,100000000
+439,Forrest Gump 2019 Re,203088,142.0,PG-13,55000000
+440,Dabangg 3,202000,160.0,,0
+441,Blink of an Eye,201874,88.0,,0
+442,Friendsgiving Day #2,198869,110.0,,0
+443,Chasing the Dragon II: Wild Wild Bunch,196634,101.0,Not Rated,0
+444,Family,194601,85.0,R,0
+445,A Beautiful Planet,15650615,,,0
+446,Heading Home: The Tale of Team Israel,207533,87.0,,0
+447,Bolshoi Ballet: Le Corsaire,190192,,,0
+448,The Divine Plan,190031,105.0,,0
+449,Pagalpanti,423340,149.0,,0
+450,Mr. Klein Re,193028,123.0,,0
+451,42nd Street: The Musical,187440,155.0,Not Rated,0
+452,The River and the Wall,183602,97.0,,0
+453,To Dust,184495,105.0,R,0
+454,Giant Little Ones,181507,93.0,R,0
+455,Raymonda: Bolshoi Ballet,181361,146.0,,0
+456,Bolshoi Ballet: Raymonda domestic,181361,,,0
+457,Robin Hood,30824628,116.0,PG-13,100000000
+458,The Warrior Queen of Jhansi,177289,102.0,R,0
+459,India's Most Wanted,176858,123.0,Not Rated,0
+460,"Iyengar: The Man, Yoga, and the Student's Journey",176387,107.0,,0
+461,Tigers Are Not Afraid 2019 Re,175559,83.0,,0
+462,Marjaavaan,174164,152.0,,0
+463,Ashfall,372562,130.0,,0
+464,Bolshoi Ballet: The Golden Age,171916,140.0,,0
+465,Nureyev: Lifting the Curtain,165203,109.0,,0
+466,Frankie,171781,100.0,PG-13,0
+467,Indian Horse,2097362,101.0,,0
+468,Asbury Park: Riot Redemption Rock 'n Roll,167684,116.0,,0
+469,The Bad Guys: The Movie,166972,114.0,,0
+470,Bright Ones,165627,82.0,PG,0
+471,Sunset,164906,142.0,R,0
+472,INXS: Baby Live at Wembly Stadium,161750,,,0
+473,Monty Python's Life of Brian 2019 Re,161507,94.0,,0
+474,"Diana Ross: Her Life, Love and Legacy",160968,160.0,,0
+475,Batman 2019 Re,159419,126.0,,35000000
+476,Them That Follow,159218,98.0,R,0
+477,Synonyms,206003,123.0,,0
+478,The World Before Your Feet,268644,95.0,,0
+479,Money,155732,115.0,,0
+480,The Death & Life of John F. Donovan,152713,123.0,R,0
+481,Halston,151991,105.0,Not Rated,0
+482,Peterloo,151971,154.0,PG-13,0
+483,Before You Know It,151507,98.0,,0
+484,Jay Myself,151331,79.0,,0
+485,Glory 2019 Re,150801,122.0,,0
+486,The Samuel Project,161565,92.0,PG-13,0
+487,Little Woods,150010,105.0,R,0
+488,Trial by Fire,148504,127.0,R,0
+489,War and Peace,148503,422.0,,0
+490,Dogman,148225,103.0,,0
+491,Framing John DeLorean,145625,109.0,,0
+492,Hampstead,144396,102.0,PG-13,0
+493,Doctor Who: Logopolis,143248,144.0,,0
+494,Hubble 3D,52522904,,,0
+495,Canelo vs. Kovalev,140820,,,0
+496,The Last Resort,158646,70.0,,0
+497,Wilder vs. Ortiz,139207,270.0,,0
+498,Who Will Write Our History,138039,95.0,,0
+499,Rafiki,137968,83.0,,0
+500,Lynryd Skynyrd: Last of the Street Survivors Farewell Tour,137888,110.0,,0
+501,The Other Story,135191,112.0,,0
+502,Okko's Inn,134787,94.0,PG,0
+503,Palau the Movie,134696,,,0
+504,Burning,718991,148.0,,0
+505,Made in Abyss: Journey's Dawn,134047,119.0,,0
+506,Peppa Celebrates Chinese New Year,131225,81.0,G,0
+507,Mister America,130897,89.0,R,0
+508,The Zoya Factor,128831,134.0,,0
+509,Woodstock,126562,184.0,R,0
+510,Paris Is Burning 2019 Re,125677,71.0,R,500000
+511,Lost & Found,125173,96.0,,0
+512,Mary Magdalene 2019 Re,124741,,R,0
+513,Easy Rider 2019 Re,123276,95.0,,360000
+514,Born to Be Wild,25978556,,,0
+515,A Tuba to Cuba,121772,82.0,,0
+516,Avant qu'on explose,119894,108.0,,0
+517,Portrait of a Lady on Fire,3759854,122.0,R,0
+518,The Fall of the American Empire,2178460,127.0,R,0
+519,"Ruben Brandt, Collector 2018 Re",117963,96.0,R,0
+520,The Reports on Sarah and Saleem,117479,127.0,,0
+521,Mob Psycho 100,115766,,,0
+522,Police Story,113164,100.0,PG-13,0
+523,Be Natural: The Untold Story of Alice Guy,115685,103.0,,0
+524,The Kingmaker,122587,101.0,R,0
+525,Babylon,109749,95.0,,0
+526,Branagh Theatre Live: The Winter's Tale,141143,,,0
+527,The Audience 2019 Re,106529,173.0,,0
+528,The Brink,106057,91.0,Not Rated,0
+529,"Belle and Sebastian, Friends for Life 2018 Re",105890,91.0,,0
+530,Cold Case Hammarskjöld,104965,128.0,,0
+531,Downtown 81 2019 Re,122390,72.0,,0
+532,Miss & Mrs. Cops,104578,107.0,,0
+533,Penguin Highway,104567,117.0,Not Rated,0
+534,Anthropocene: The Human Epoch,104806,87.0,,0
+535,The Divine Fury,102982,129.0,,0
+536,Walking on Water,102140,105.0,,0
+537,Mojin: The Worm Valley,101516,110.0,,0
+538,Wonders of the Sea,100780,82.0,G,0
+539,Mirai,812794,98.0,PG,0
+540,Tazza: One,97655,139.0,,0
+541,The Third Wife,84933,96.0,R,0
+542,The Song of Names,1077584,113.0,PG-13,0
+543,The Image Book,94153,84.0,,0
+544,Margaret Atwood: Live in Cinemas,93690,110.0,,0
+545,Rojo,94757,109.0,,0
+546,Always Miss You,91884,98.0,Not Rated,0
+547,Mapplethorpe,91002,102.0,,0
+548,The Crossing,90896,99.0,,0
+549,Loopers: The Caddie's Long Walk,90679,80.0,PG,0
+550,My Dear Liar,90545,116.0,,0
+551,A Bigger Splash 2019 Re,95826,106.0,,0
+552,Sound! Euphonium the Movie,90341,100.0,,0
+553,Varda by Agnès,160765,115.0,,0
+554,Take Point,112386,119.0,,0
+555,Ramen Shop,88455,89.0,,0
+556,The Lumber Baron,88336,,PG,0
+557,Jim Allison: Breakthrough,87984,90.0,PG-13,0
+558,ECCO,86858,123.0,R,0
+559,Sonchiriya,86765,143.0,,0
+560,The Chambermaid,86422,102.0,,0
+561,National Theater Live: Cyrano de Bergerac,86300,160.0,,0
+562,Mayday Life,85912,112.0,,0
+563,Skid Row Marathon,84997,85.0,,0
+564,Papi Chulo,84703,98.0,R,0
+565,Woodstock,84440,106.0,Not Rated,0
+566,Once Upon a Deadpool 2018 Re,6100309,119.0,R,110000000
+567,Looking Up,84267,147.0,,0
+568,High Strung Free Dance 2019 Re,83891,103.0,PG,0
+569,Ms. Purple,80657,87.0,,0
+570,The Old Man & the Gun,11277120,93.0,PG-13,0
+571,Swing Kids,222001,133.0,,0
+572,Saint Judy,78935,106.0,PG-13,0
+573,The Heiresses,78473,98.0,,0
+574,A Faithful Man,77491,75.0,,0
+575,Ploey,77815,83.0,PG,0
+576,Fast Colour,76916,100.0,PG-13,0
+577,Christ Stopped at Eboli,78736,150.0,,0
+578,Triple Threat,76289,96.0,R,0
+579,"Hale County This Morning, This Evening",112282,76.0,,0
+580,Savage,74491,112.0,Not Rated,0
+581,5B,72968,94.0,PG-13,0
+582,Working Woman,64048,93.0,,0
+583,Cliffs of Freedom,72476,137.0,R,0
+584,3 Faces,72324,100.0,,0
+585,Storm Boy,71760,99.0,PG,0
+586,Free Trip to Egypt 2019 Re,71087,98.0,Not Rated,0
+587,The Battle of Jangsari,70853,104.0,,0
+588,Styx 2018 Re,70794,94.0,,0
+589,Batman Returns 2019 Re,70642,126.0,PG-13,80000000
+590,Edie,71790,102.0,,0
+591,Diamantino,70088,96.0,,0
+592,The Body,68196,101.0,,0
+593,The Silence of Others,67986,96.0,,0
+594,The Divine Move 2: The Wrathful,67578,106.0,,0
+595,Being Frank,67343,109.0,R,0
+596,Cunningham,265102,93.0,PG,0
+597,This Changes Everything,64988,96.0,,0
+598,End of the Century,66309,84.0,,0
+599,Beautiful Boy,7649973,,R,0
+600,Sauvage / Wild,61604,99.0,,0
+601,The Mountain,61035,106.0,,0
+602,Last Year at Marienbad 2019 Re,63425,94.0,,0
+603,By the Grace of God,67059,137.0,,0
+604,John Fogerty: 50 Year Trip,59795,110.0,,0
+605,Mickey and the Bear,57188,88.0,R,0
+606,Heavy Water,55446,84.0,Not Rated,0
+607,Maria By Callas 2018 Re,1267301,119.0,PG,0
+608,The Hate U Give,29719483,133.0,PG-13,23000000
+609,Plácido Domingo Gala,52502,,,0
+610,One Cut of the Dead,52406,96.0,,0
+611,QT8: The First Eight,51896,103.0,,0
+612,Greener Grass,51456,95.0,,0
+613,"Cyrano, My Love",351019,110.0,R,0
+614,Making Waves: The Art of Cinematic Sound,53144,94.0,,0
+615,Ophelia,50722,114.0,PG-13,0
+616,Clinton Road,50400,77.0,,0
+617,"Love, Antosha",50168,92.0,R,0
+618,Free Trip to Egypt,49693,98.0,Not Rated,0
+619,The Bounty Killer,48815,87.0,,0
+620,The Final Wish,25183,95.0,,0
+621,The Queen,47818,68.0,,0
+622,Becoming Astrid,120486,123.0,,0
+623,Under the Silver Lake,46083,139.0,R,0
+624,Sympathy for the Devil,51150,100.0,,0
+625,¡He matado a mi marido!,45777,108.0,,0
+626,High on the Hog,45696,85.0,,0
+627,The Proposal,45149,86.0,,0
+628,What Is Democracy?,44536,107.0,,0
+629,Maze 2019 Re,44381,92.0,,0
+630,American Dharma,51891,95.0,R,0
+631,Carmine Street Guitars,44253,80.0,,0
+632,The Star 2019 Re,43510,86.0,PG,20000000
+633,Fagara,43417,118.0,,0
+634,Immortal Hero,43007,118.0,PG,0
+635,Vita & Virginia,42741,110.0,,0
+636,For Sama,43796,100.0,,0
+637,Midnight Traveler,41265,88.0,,0
+638,Clemency,364716,112.0,R,0
+639,Charlie Says,40685,110.0,R,0
+640,Slut in a Good Way,40513,89.0,R,0
+641,Aniara,40124,106.0,R,0
+642,Zilla and Zoe,39003,104.0,,0
+643,Shed of the Dead,38901,82.0,,0
+644,The Raft,39678,97.0,,0
+645,The Cave,62625,107.0,PG-13,0
+646,Batman Forever 2019 Re,38014,121.0,PG-13,100000000
+647,Union,41656,135.0,,0
+648,The Quiet One,37010,98.0,,0
+649,The Death of Dick Long,36856,100.0,R,0
+650,Britt,36549,97.0,,0
+651,The Sower,36233,98.0,,0
+652,Buñuel in the Labyrinth of the Turtles,36205,80.0,,0
+653,Yardie,36012,101.0,,0
+654,Loro,35613,151.0,,0
+655,White Snake,34730,99.0,,0
+656,Love Live! Sunshine!! The School Idol Movie: Over The Rainbow,34135,100.0,,0
+657,The Wild Pear Tree,34014,188.0,,0
+658,Killer Unicorn,33901,74.0,,0
+659,Moonlight Sonata: Deafness in Three Movements,33823,90.0,,0
+660,An Elephant Sitting Still,32556,230.0,,0
+661,Knife + Heart,32516,102.0,,0
+662,An Acceptable Loss,32427,102.0,R,0
+663,10E,32413,94.0,,0
+664,Ága,35178,96.0,,0
+665,Desolation Center,32016,93.0,,0
+666,Gift,31588,90.0,,0
+667,Buddy,31203,86.0,,0
+668,Horn from the Heart: The Paul Butterfield Story,58597,95.0,,0
+669,Pasolini 2019 Re,30757,84.0,,0
+670,Space Station 3D,93383953,,,0
+671,Sorry Angel,30628,132.0,,0
+672,Los Reyes,30418,78.0,,0
+673,The Nun,30245,140.0,,0
+674,Deep Sea,46412757,,G,0
+675,Lionel Richie at Glastonbury,30123,100.0,,0
+676,The Ground Beneath My Feet,29251,108.0,,0
+677,Vault,29491,99.0,R,0
+678,Recorder: The Marion Stokes Project,55632,87.0,,0
+679,Batman & Robin 2019 Re,28597,125.0,PG-13,125000000
+680,In the Aisles,28394,125.0,,0
+681,Hotel by the River,28354,96.0,,0
+682,The Wind,28252,86.0,R,0
+683,The Load,28410,98.0,,0
+684,El Norte 2019 Re,27920,141.0,,0
+685,Kind Hearts and Coronets 2019 Re,35948,106.0,,0
+686,"Leaving Home, Coming Home: A Portrait of Robert Frank",27073,85.0,,0
+687,The Day Shall Come,26972,87.0,,0
+688,Memory: The Origins of Alien,31378,95.0,,0
+689,Wrestle,26597,96.0,,0
+690,Donnybrook,26284,101.0,R,0
+691,Neither Wolf Nor Dog,589289,110.0,,0
+692,Asako I & II,25559,119.0,,0
+693,Return of the Hero,37108,90.0,,0
+694,Invisible Life,146535,139.0,R,0
+695,Chasing Einstein,24057,82.0,,0
+696,Vox Lux,727119,114.0,R,0
+697,Piranhas,23494,111.0,,0
+698,Wildlife,1050616,105.0,PG-13,0
+699,Celebration,22557,74.0,,0
+700,Night School,77339130,111.0,PG-13,29000000
+701,Hyenas,24672,110.0,,0
+702,Light from Light,24808,82.0,,0
+703,Island of Lemurs: Madagascar,11272213,,,0
+704,Jane and Emma,380030,90.0,PG,0
+705,Wicked Witches,21600,79.0,,0
+706,The Hole in the Ground,21072,90.0,R,0
+707,Redoubt,33155,134.0,,0
+708,The Gospel of Eureka,20039,75.0,,0
+709,The All Americans,20324,,,0
+710,Light of My Life,20056,119.0,R,0
+711,General Magic,20046,93.0,,0
+712,The Sound of Silence,20013,85.0,,0
+713,Prassthanam,19984,141.0,,0
+714,The Perfect Race,29644,,,0
+715,Armstrong,19740,100.0,,0
+716,Girls of the Sun,19712,115.0,,0
+717,Out of Blue,18779,109.0,,0
+718,Black Mother,18762,77.0,,0
+719,Before Stonewall,18724,87.0,,0
+720,The Return of Martin Guerre 2019 Re,18603,122.0,,0
+721,Midnight Diner,18555,103.0,,0
+722,"Phoenix, Oregon Pre",18356,108.0,R,0
+723,The Cranes Are Flying,17923,95.0,,0
+724,The House That Jack Built 2018 Re,87993,152.0,R,0
+725,Citizen K,120411,126.0,,0
+726,Ode to Joy,17303,97.0,R,0
+727,Scandalous: The True Story of the National Enquirer,18759,97.0,,0
+728,Joseph Pulitzer: Voice of the People,16970,84.0,,0
+729,Ballon,34222,125.0,,0
+730,Too Late to Die Young,16591,110.0,,0
+731,Tremors,23911,107.0,,0
+732,Chained for Life,17431,91.0,,0
+733,Three Peaks,16216,94.0,,0
+734,Virginia Minnesota,16118,98.0,,0
+735,Piercing,15856,81.0,R,0
+736,Starfish,15849,101.0,,0
+737,Little Joe,23862,105.0,,0
+738,To the Arctic 3D,14560838,,G,0
+739,A Private War,1633208,110.0,R,0
+740,Airpocalypse,105678,105.0,,0
+741,Trinity Seven The Movie 2: Heavens Library & Crimson Lord,15712,63.0,R,0
+742,Midnight Family,42310,81.0,,0
+743,Galapagos,18630372,,,0
+744,Funan,15152,84.0,,0
+745,El Angel,109608,118.0,,0
+746,Wrinkles the Clown,14938,78.0,,0
+747,ZZ Top: That Little Ol' Band from Texas,14879,91.0,,0
+748,Frank and Ava,18829,110.0,,0
+749,Our Time,14777,177.0,,0
+750,The Competition 2019 Re,15622,121.0,,0
+751,Boy Erased,6788692,115.0,R,0
+752,Combat Obscura,14242,70.0,,0
+753,Screwball,13967,105.0,,0
+754,Touch Me Not,13782,123.0,,0
+755,My Son 2019 Re,14450,84.0,,0
+756,This One's for the Ladies,13688,82.0,NC-17,0
+757,First Man,44936545,141.0,PG-13,59000000
+758,The Cat Rescuers,31540,87.0,,0
+759,The House with a Clock in Its Walls,68549695,105.0,PG,42000000
+760,Rapid Response,13294,99.0,PG-13,0
+761,Hagazussa,13253,102.0,,0
+762,The Woman Who Loves Giraffes,113858,123.0,,0
+763,Off Season,12544,86.0,,0
+764,The White Sheik 2019 re,50850,86.0,,0
+765,Journey to the South Pacific,7653913,,G,0
+766,Bricked,12201,92.0,,0
+767,Zen for Nothing,12107,100.0,,0
+768,Imprisoned,12050,104.0,R,0
+769,Quartet,12042,101.0,,0
+770,"Cassandro, The Exotico!",11897,73.0,,0
+771,Liyana,44045,77.0,,0
+772,The Charmer,26167,100.0,,0
+773,The Disappearance of My Mother,24951,94.0,,0
+774,Stuffed,15532,84.0,,0
+775,Vision Portraits,10771,78.0,,0
+776,That Part Feeling,8812,75.0,,0
+777,Between the Lines,15383,101.0,,0
+778,Yomeddine,11308,97.0,,0
+779,In Like Flynn,11255,106.0,R,0
+780,Made Me Do It,11151,90.0,,0
+781,Ferrante Fever,11137,74.0,,0
+782,I Do Not Care If We Go Down in History as Barbarians,11307,140.0,,0
+783,Suburban Birds,10997,118.0,,0
+784,16 Bars,10985,94.0,,0
+785,If the Dancer Dances,10912,90.0,,0
+786,Duet for Cannibals 2019 re,12962,105.0,,0
+787,Shooting the Mafia,10881,94.0,,0
+788,Angels Are Made Of Light,7919,117.0,,0
+789,Daughter of Mine,10628,97.0,,0
+790,The Eyes of Orson Welles,10253,115.0,,0
+791,Round of Your Life,20941,91.0,,0
+792,Around India with a Movie Camera,10389,72.0,,0
+793,Olivia,9934,95.0,,0
+794,Streetwise,9904,91.0,,0
+795,Tyrel,21456,86.0,,0
+796,Fritz Lang's Indian Epic 2019 re,9345,203.0,,0
+797,The Spanish Prisoner 2019 Re,9589,110.0,PG,0
+798,Studio 54,199767,98.0,,0
